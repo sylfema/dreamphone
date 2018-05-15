@@ -1,0 +1,23 @@
+{
+
+    "name": "dream-phone-1a/sender",
+    "version": "1.0.0",
+    "description": " ",
+    "keywords": [
+ 
+    ],
+
+"authors": [
+	  {
+            "name": "damiansob",
+            "email": "damiansobor@gmail.com",
+			"homepage": ""
+        }
+    ],
+    "license": "ISC",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package2": "1.*"
+    }
+}
+
